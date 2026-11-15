@@ -1,21 +1,22 @@
-# NeuralForge / PromptForge
+# NeuralForge
 
-One app family, one repo. The code itself is not here yet — what is here is the
+One app, one repo. The code itself is not here yet — what is here is the
 frozen record of how it evolved in June 2026, so the history is preserved before
 any source code lands.
 
 ## What these files are
 
-All 9 files in `archive/` are saved web pages (`.mhtml` / `.mht`), not source
+All 6 files in `archive/` are saved web pages (`.mhtml`), not source
 code. A page save is a photo of the app, not the app — nothing in them can be
 rebuilt or redeployed as-is. They belong here as the archive: the design record
-and the Gemini conversations behind each version.
-
-- 7 are saves of Gemini share pages (`gemini.google.com/share/...`).
-- 2 are saves of the running PromptForge app itself on Arcada
-  (`promptforge-ai-*.arcada.app`).
+and the Gemini conversations behind each version. All 6 are saves of Gemini
+share pages (`gemini.google.com/share/...`).
 
 No secrets were found in any of them (checked 2026-11-13).
+
+**Split note (2026-11-15):** the PromptArchitect save and the two PromptForge
+deployment saves (Battle, BattleMode) were moved to the separate
+`PromptForge` repository at Cecil's direction.
 
 ## Version index
 
@@ -31,14 +32,11 @@ come from inside each saved file.
 | `archive/neural-forge-v4.mhtml` | NEURAL FORGE V4 | 2026-06-07 09:13 CDT | https://gemini.google.com/share/08d56a037aa1 |
 | `archive/neural-forge-v3.5.mhtml` | NEURAL FORGE V3.5 | 2026-06-07 09:17 CDT | https://gemini.google.com/share/b5e116fdce03 |
 | `archive/neural-forge-v4o.mhtml` | NEURAL FORGE V4.o | 2026-06-07 09:19 CDT | https://gemini.google.com/share/42dfe53fe8be |
-| `archive/promptforge-battlemode.mht` | PromptForge BattleMode | 2026-06-09 16:07 CDT | https://promptforge-ai-wut2.arcada.app/ |
-| `archive/promptforge-battle.mhtml` | PromptForge Battle | 2026-06-14 06:55 CDT | https://promptforge-ai-fvgy.arcada.app/ |
 | `archive/neural-forge-v3.mhtml` | NerualForge V3 | 2026-06-20 23:46 CDT | https://gemini.google.com/share/c23b09427b1a |
-| `archive/neural-forge-prompt-architect.mhtml` | NeuralForge PromptArchitect | 2026-06-20 23:49 CDT | https://gemini.google.com/share/7198caaf01f2 |
 
 Original filenames were cleaned up on staging (typos and Gemini's save-name
 prefixes removed); the content of each file is byte-identical to the upload.
-Total archive size: 7,160,040 bytes (~6.8 MB) across the 9 files.
+Total archive size: 5,957,605 bytes (~5.7 MB) across the 6 files.
 
 ## How versions should live here
 
