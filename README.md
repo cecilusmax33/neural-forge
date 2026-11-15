@@ -1,5 +1,12 @@
 # NeuralForge
 
+**About this repository.** NeuralForge is an AI prompt-engineering and
+app-building workbench developed by Cecil Tindell (Catalyst Vector AIA)
+through a series of iterative versions built with Google AI Studio / Gemini
+in June 2026. This repository is the permanent home for the NeuralForge app
+family: it preserves the design record of every major version and will hold
+the production source code as official exports are published.
+
 One app, one repo. The code itself is not here yet — what is here is the
 frozen record of how it evolved in June 2026, so the history is preserved before
 any source code lands.
@@ -50,5 +57,12 @@ Total archive size: 5,957,605 bytes (~5.7 MB) across the 6 files.
 ## Next step
 
 Export the real source zips from AI Studio for whichever version is current,
-and the code goes in here with its version tag. Suggested repo name:
-`neural-forge`, private, to match the rest of the fleet.
+and the code goes in here with its version tag.
+
+## Repository history
+
+| Date | Change |
+| --- | --- |
+| 2026-11-15 | Repository created and the 9-save archive published in three batches with this index. |
+| 2026-11-15 | PromptArchitect and the two PromptForge deployment saves moved to the separate `PromptForge` repository at the owner's direction; index updated to the remaining 6 saves. |
+| 2026-11-15 | Professional description and history sections added, per the owner's standing rule that every repository change is documented in context. |
