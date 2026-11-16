@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/cecilusmax33/cecilusmax33/main/assets/logos/neural-forge-logo.png" alt="neural-forge logo" width="220"></p>
+
 # NeuralForge
 
 **About this repository.** NeuralForge is an AI prompt-engineering and
